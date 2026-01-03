@@ -1,0 +1,67 @@
+{
+  "": {
+    "dependencies": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/QuickNotes.d",
+    "object": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/QuickNotes.o",
+    "swift-dependencies": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/master.swiftdeps"
+  },
+  "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/APIService.swift": {
+    "object": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/APIService.swift.o",
+    "swiftmodule": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/APIService~partial.swiftmodule",
+    "swift-dependencies": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/APIService.swiftdeps",
+    "diagnostics": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/APIService.dia"
+  },
+  "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/ContentView.swift": {
+    "object": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/ContentView.swift.o",
+    "swiftmodule": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/ContentView~partial.swiftmodule",
+    "swift-dependencies": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/ContentView.swiftdeps",
+    "diagnostics": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/ContentView.dia"
+  },
+  "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/DataManager.swift": {
+    "object": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/DataManager.swift.o",
+    "swiftmodule": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/DataManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/DataManager.swiftdeps",
+    "diagnostics": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/DataManager.dia"
+  },
+  "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/MacEditor.swift": {
+    "object": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/MacEditor.swift.o",
+    "swiftmodule": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/MacEditor~partial.swiftmodule",
+    "swift-dependencies": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/MacEditor.swiftdeps",
+    "diagnostics": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/MacEditor.dia"
+  },
+  "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/NotesView.swift": {
+    "object": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/NotesView.swift.o",
+    "swiftmodule": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/NotesView~partial.swiftmodule",
+    "swift-dependencies": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/NotesView.swiftdeps",
+    "diagnostics": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/NotesView.dia"
+  },
+  "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/QuickNotesApp.swift": {
+    "object": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/QuickNotesApp.swift.o",
+    "swiftmodule": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/QuickNotesApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/QuickNotesApp.swiftdeps",
+    "diagnostics": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/QuickNotesApp.dia"
+  },
+  "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/SettingsView.swift": {
+    "object": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/SettingsView.swift.o",
+    "swiftmodule": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/SettingsView~partial.swiftmodule",
+    "swift-dependencies": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/SettingsView.swiftdeps",
+    "diagnostics": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/SettingsView.dia"
+  },
+  "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/SpeechManager.swift": {
+    "object": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/SpeechManager.swift.o",
+    "swiftmodule": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/SpeechManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/SpeechManager.swiftdeps",
+    "diagnostics": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/SpeechManager.dia"
+  },
+  "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/SyncManager.swift": {
+    "object": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/SyncManager.swift.o",
+    "swiftmodule": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/SyncManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/SyncManager.swiftdeps",
+    "diagnostics": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/SyncManager.dia"
+  },
+  "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/TasksView.swift": {
+    "object": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/TasksView.swift.o",
+    "swiftmodule": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/TasksView~partial.swiftmodule",
+    "swift-dependencies": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/TasksView.swiftdeps",
+    "diagnostics": "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/TasksView.dia"
+  }
+}

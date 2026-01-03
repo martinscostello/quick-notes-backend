@@ -1,0 +1,414 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.QuickNotes-arm64-apple-macosx26.0-release.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/sources",
+      "importPath" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/APIService.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/ContentView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/DataManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/MacEditor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/NotesView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/QuickNotesApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/SettingsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/SpeechManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/SyncManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/TasksView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "QuickNotes",
+      "moduleOutputPath" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/Modules/QuickNotes.swiftmodule",
+      "objects" : [
+        "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/APIService.swift.o",
+        "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/ContentView.swift.o",
+        "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/DataManager.swift.o",
+        "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/MacEditor.swift.o",
+        "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/NotesView.swift.o",
+        "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/QuickNotesApp.swift.o",
+        "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/SettingsView.swift.o",
+        "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/SpeechManager.swift.o",
+        "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/SyncManager.swift.o",
+        "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/TasksView.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx13.0",
+        "-whole-module-optimization",
+        "-num-threads",
+        "16",
+        "-serialize-diagnostics",
+        "-O",
+        "-j16",
+        "-DSWIFT_PACKAGE",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "QuickNotes_main",
+        "-swift-version",
+        "5",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "macos"
+      ],
+      "outputFileMapPath" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/APIService.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/ContentView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/DataManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/MacEditor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/NotesView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/QuickNotesApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/SettingsView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/SpeechManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/SyncManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/TasksView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/Modules/QuickNotes.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/APIService.swift",
+        "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/ContentView.swift",
+        "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/DataManager.swift",
+        "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/MacEditor.swift",
+        "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/NotesView.swift",
+        "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/QuickNotesApp.swift",
+        "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/SettingsView.swift",
+        "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/SpeechManager.swift",
+        "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/SyncManager.swift",
+        "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/TasksView.swift"
+      ],
+      "tempsPath" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build",
+      "wholeModuleOptimization" : true
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "QuickNotes" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "QuickNotes",
+      "-package-name",
+      "macos",
+      "-c",
+      "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/APIService.swift",
+      "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/ContentView.swift",
+      "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/DataManager.swift",
+      "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/MacEditor.swift",
+      "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/NotesView.swift",
+      "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/QuickNotesApp.swift",
+      "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/SettingsView.swift",
+      "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/SpeechManager.swift",
+      "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/SyncManager.swift",
+      "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/TasksView.swift",
+      "-I",
+      "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/Modules",
+      "-target",
+      "arm64-apple-macosx13.0",
+      "-whole-module-optimization",
+      "-num-threads",
+      "16",
+      "-serialize-diagnostics",
+      "-O",
+      "-j16",
+      "-DSWIFT_PACKAGE",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/ModuleCache",
+      "-parseable-output",
+      "-Xfrontend",
+      "-entry-point-function-name",
+      "-Xfrontend",
+      "QuickNotes_main",
+      "-swift-version",
+      "5",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "macos",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "QuickNotes" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/APIService.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/ContentView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/DataManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/MacEditor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/NotesView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/QuickNotesApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/SettingsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/SpeechManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/SyncManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/Sources/TasksView.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/sources"
+    },
+    "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/APIService.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/ContentView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/DataManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/MacEditor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/NotesView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/QuickNotesApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/SettingsView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/SpeechManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/SyncManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.build/TasksView.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/QuickNotes.product/Objects.LinkFileList"
+    },
+    "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/directorm/Anti_Gravity/Quick_notes /macos/.build/arm64-apple-macosx/release/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}
